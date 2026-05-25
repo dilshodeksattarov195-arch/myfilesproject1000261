@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersecrypt",
+        "uuid": 1495530,
+        "checksum": "jnf5s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
